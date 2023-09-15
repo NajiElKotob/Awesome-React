@@ -9,3 +9,4 @@
 
 ## YouTube 📺
 * [Learn React With This One Project ~43min](https://youtu.be/Rh3tobg7hEo?si=4Mb70dEBf5sFdkXU) - Web Dev Simplified
+* [React Tutorial for Beginners ~80min](https://www.youtube.com/watch?v=SqcY0GlETPk) - Programming with Mosh
