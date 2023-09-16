@@ -3,6 +3,9 @@
 ## React
 * [React](https://react.dev/) - react.dev | The library for web and native user interfaces
 
+### Create React App (CRA)
+* [Create React App](https://create-react-app.dev/) - create-react-app.dev
+
 ## Tutorial
 * [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial) - code.visualstudio.com
 * [The JavaScript Skills You Need For React (+ Practical Examples)](https://www.freecodecamp.org/news/javascript-skills-you-need-for-react-practical-examples/) - freecodecamp.org
