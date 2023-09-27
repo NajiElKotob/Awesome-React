@@ -14,6 +14,9 @@
 * [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial) - code.visualstudio.com
 * [The JavaScript Skills You Need For React (+ Practical Examples)](https://www.freecodecamp.org/news/javascript-skills-you-need-for-react-practical-examples/) - freecodecamp.org
 
+## Code samples
+* [Simple React JS Project](https://github.com/aditya-sridhar/simple-reactjs-app) - Aditya Sridhar
+
 ## Articles
 * [A quick guide to help you understand and create ReactJS apps](https://www.freecodecamp.org/news/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123/) - freecodecamp.org
 
